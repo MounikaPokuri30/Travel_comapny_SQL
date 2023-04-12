@@ -1,4 +1,4 @@
-<img src="https://companieslogo.com/img/orig/MMYT-ca98a9f1.png?t=1602681214" width="70" height="90">
+<img src="https://companieslogo.com/img/orig/MMYT-ca98a9f1.png?t=1602681214" width="80" height="90">
 
 # `Make My Trip` : Case Study
 
